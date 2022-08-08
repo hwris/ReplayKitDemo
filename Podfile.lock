@@ -1,0 +1,23 @@
+PODS:
+  - CocoaAsyncSocket (7.6.5)
+  - SYScreenRecorder (0.1.0):
+    - CocoaAsyncSocket
+
+DEPENDENCIES:
+  - SYScreenRecorder (from `./SYScreenRecorder`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+
+EXTERNAL SOURCES:
+  SYScreenRecorder:
+    :path: "./SYScreenRecorder"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
+  SYScreenRecorder: bab9023da0f6411afa90bfd5c4e25cbf96f8f32b
+
+PODFILE CHECKSUM: fba75f5ef8febcfaabfb8dc831586acbecf97d06
+
+COCOAPODS: 1.10.1
